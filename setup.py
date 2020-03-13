@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='packages',
-      version='1.0',
+      version='1.1',
       description='Python module for Jönköping University Librarys various helper packages',
       url='https://github.com/JonkopingUniversityLibrary/python_packages',
       author='Gustav Lindqvist',
